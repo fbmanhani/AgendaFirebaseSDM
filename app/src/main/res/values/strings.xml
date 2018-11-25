@@ -13,6 +13,12 @@
     <string name="contato_adicionado">Contato adicionado</string>
     <string name="contato_alterado">Informações do contato alteradas</string>
     <string name="contato_apagado">Contato removido</string>
+    <string name="tipo_de_contato">Tipo de contato</string>
+    <string name="todos">Todos</string>
+    <string name="amigos">Amigos</string>
+    <string name="fam_lia">Família</string>
+    <string name="outros">Outros</string>
+    <string name="filtrar">Filtrar</string>
 </resources>
 
 
